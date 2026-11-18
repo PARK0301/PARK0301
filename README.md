@@ -1,36 +1,30 @@
-# Hi, I'm PARK Jongwan
+# Hi, I'm Jongwan Park
 
-Data Science student at **City University of Hong Kong**. I build **AI agents**, **GraphRAG** systems, and **NLP** pipelines — with side projects in Swift and game prototyping.
+**Data and Systems Engineering graduate from City University of Hong Kong (BEng, June 2026).** I build Python backend and retrieval workflows, iOS applications and cloud prototypes.
 
-**Open to:** AI/ML engineering · Applied NLP/RAG · Software roles involving Python automation
+Based in Hong Kong · IANG holder · Available immediately  
+Seeking graduate or junior **software development, AI application development, solutions engineering and technical implementation** roles.
 
----
+## Selected engineering work
 
-## Featured
+| Project | What to look for | My role |
+|---|---|---|
+| [NoiseGuardian](https://github.com/PARK0301/showcase-noiseguardian) | SwiftUI audio app, bounded live visualization, alerts and Core Data history | App development during a contract Research Assistant role |
+| [Hybrid GraphRAG Document QA](https://github.com/PARK0301/showcase-graphrag) | Hybrid retrieval, evidence-grounded answers and local evidence graphs | Retrieval fusion, intent classification, reranking, FastAPI integration and testing in a team project |
 
-| Project | What it is |
-|---|---|
-| [job-agent](https://github.com/PARK0301/job-agent) | AI job search & apply agent — multi-source hunt, OpenAI matching, Playwright/CDP apply, Cursor MCP |
-| [showcase-graphrag](https://github.com/PARK0301/showcase-graphrag) | PDF GraphRAG QA (FYP) — retrieval-first answers with citations + local evidence graph |
-| [showcase-x-nlp](https://github.com/PARK0301/showcase-x-nlp) | Social media NLP — US Election 2024 tweets: sentiment, topics, classification |
-| [library-management-website](https://github.com/SW-Rapid-Response-Team/library-management-website) | Team Django library system (GCP deploy) |
+Both links are **public case studies**. The underlying implementations remain private; the pages distinguish personal contributions, team outcomes and validation limits.
 
-## Also building *(source private)*
+## Technical foundation
 
-| Project | What it is |
-|---|---|
-| [NoiseGuardian](https://github.com/PARK0301/showcase-noiseguardian) | iOS real-time noise monitoring — SwiftUI, AVFoundation, alerts & history |
-| [SILENCE](https://github.com/PARK0301/showcase-silence) | 2D zombie survival prototype — C#, core-loop / systems validation with teammates |
+**Python · SQL · Swift · FastAPI · MySQL · Redis · Git**  
+Additional experience with retrieval-augmented generation, SwiftUI, AVFoundation, Core Data and cloud solution prototyping; additional exposure to React/Next.js.
 
----
+## Other public project summaries
 
-## Stack
-
-`Python` · `OpenAI` · `Playwright` · `NLP` · `GraphRAG` · `Swift` · `SwiftUI` · `R` · `Django` · `React`
-
----
+- [Job application agent](https://github.com/PARK0301/job-agent)
+- [Social-media NLP case study](https://github.com/PARK0301/showcase-x-nlp)
+- [SILENCE game prototype case study](https://github.com/PARK0301/showcase-silence)
 
 ## Contact
 
-- GitHub: [@PARK0301](https://github.com/PARK0301)
-- Prefer DMs via GitHub Issues on any of my public repos
+[LinkedIn — Jongwan Park](https://www.linkedin.com/in/jongwan-park-8264432b5/)
